@@ -1,0 +1,10 @@
+All the project related files are included in the 'ProjectFiles' folder
+
+Python files are numbered to identify the order which needs to be considered when executing.
+
+If any specific library is still not installed use 'pip install library_name' to install the library.
+The pickle library which is used in the coursework is said to be alrady installed in pytohn 3.7 but might have compatability issues with other versions when tried to install using pip.
+
+The Python files can be simply executed in the terminals given that all the libraries required are installed in the system.
+
+Delete the content of the 'model' and 'dataset' folder if a new data set is to be created and a model will be trained from scratch
